@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for HTML5 Placeholder jQuery Plugin
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: https://github.com/mathiasbynens/jquery-placeholder
